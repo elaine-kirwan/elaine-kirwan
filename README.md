@@ -8,7 +8,7 @@ I'm a data & analytics director based in Dublin, Ireland - I'm extremely lucky t
 - Advanced data use cases with our Google Cloud Platform and Power BI that drive home new insights & business value
 - Exploring how AI can help Gym+Coffee to level-up growth as we scale (fast) 🚀 
 
-### 📫 Talk data to me
+### 📫 Talk data (or dogs) to me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/elaine-kirwan-aa4b019/">
