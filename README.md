@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Elaine
 
-I'm a data & analytics director based in Dublin, Ireland - I'm extremely lucky to be working with the incredibly talented & sound team over at [Gym+Coffee](https://gympluscoffee.com)
+I'm a data & analytics director based in Dublin, Ireland - and extremely lucky to be working with the incredibly talented & sound team over at [Gym+Coffee](https://gympluscoffee.com)
 
 ### 🤓 I’m working on
 
-- A portfolio of data tips, tricks & tidbits - anything that might help simplify and speed things up for devs and users alike
-- Advanced data use cases with our Google Cloud Platform and Power BI that drive home new insights & business value
+- A portfolio of data tips, tricks & tidbits - anything that might help simplify and speed things up for other devs and users
+- Advanced data use cases in our custom data platform (mainly GCP and Power BI) that drive home new insights & business value
 - Exploring how AI can help Gym+Coffee to level-up growth as we scale (fast) 🚀 
 
 ### 📫 Talk data (or dogs) to me
