@@ -4,7 +4,7 @@ I'm a data & analytics director based in Dublin, Ireland - and extremely lucky t
 
 ### 🤓 I’m working on
 
-- Data tips, tricks & tidbits - anything that might help simplify and speed things up for other devs and users
+- Data tips, tricks & [tidbits](https://gist.github.com/elaine-kirwan) - anything that might help simplify and speed things up for other devs and users
 - Advanced data use cases in our custom data platform (mainly GCP and Power BI) that drive home new insights & business value
 - Exploring how AI can help Gym+Coffee to level-up growth as we scale (fast) 🚀 
 
